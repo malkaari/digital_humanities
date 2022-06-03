@@ -1,4 +1,4 @@
-# digital_humanities
+# antisemitism
 
 פרויקט במדעי הרוח הדיגיטליים:
 
